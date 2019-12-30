@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{3071A37C-5543-260C-0DC8-43DACE74B1E9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TimeCounter.cs">
+    <Files>
+      <File FileName="Assets/Scripts/EnemySpawn.cs" Line="59" Column="36" />
+      <File FileName="Assets/Scripts/PlayerMove.cs" Line="34" Column="3" />
+      <File FileName="Assets/Scripts/GameManagerScript.cs" Line="45" Column="37" />
+      <File FileName="Assets/GameScoreScrip.cs" Line="32" Column="52" />
+      <File FileName="Assets/Scripts/EnemyControl.cs" Line="41" Column="57" />
+      <File FileName="Assets/Scripts/Firing.cs" Line="17" Column="48" />
+      <File FileName="Assets/Scripts/TimeCounter.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="898dff44-48bd-4031-b1a0-f3617b15891e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
